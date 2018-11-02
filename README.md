@@ -1,0 +1,2 @@
+# AutomatingXFOIL
+For Automating XFOIL
